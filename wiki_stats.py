@@ -30,7 +30,7 @@ class WikiGraph:
 
             # TODO: прочитать граф из файла
 
-        print('Граф загружен')
+        print('Граф')
 
     def get_number_of_links_from(self, _id):
         pass
